@@ -1837,3 +1837,13 @@ section {
 .bg_color_gray_blue{
   background-color: #586e94 !important;
 }
+
+@media only screen and (max-width: 600px){
+  .common_heading_responsive{
+    font-size: 22px !important;
+    text-align: center !important;
+  }
+  .focus_area{
+    font-size: 16px !important;
+  }
+}
