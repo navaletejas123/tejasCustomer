@@ -591,6 +591,11 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+.about_us_text{
+  color: #37517e;
+  font-weight: bold;
+}
+
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
@@ -1821,4 +1826,14 @@ section {
 
 .fs18{
   font-size: 18px !important;
+}
+
+.color_blue{
+  color: blue !important;
+}
+.color_gray_blue{
+  color: #586e94 !important;
+}
+.bg_color_gray_blue{
+  background-color: #586e94 !important;
 }
