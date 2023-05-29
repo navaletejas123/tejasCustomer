@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 500;
   letter-spacing: 2px;
-  text-transform: uppercase;
+  text-transform: uppercase;  
 }
 
 #header .logo a {
@@ -1842,6 +1842,10 @@ section {
  background-color: #0000ff !important;
 }
 
+.mylogo{
+  width: 150px;
+}
+
 @media only screen and (max-width: 600px){
   .common_heading_responsive{
     font-size: 22px !important;
@@ -1851,4 +1855,34 @@ section {
     font-size: 16px !important;
   }
 }
+/* @media only screen and (max-width: 768px){
+  .mylogo{
+    width: 18vw;
+  }
+}
+@media only screen and (max-width: 608px){
+  .mylogo{
+    width: 22vw;
+  }
+}
+@media only screen and (max-width: 551px){
+  .mylogo{
+    width: 26vw;
+  }
+}
+@media only screen and (max-width: 458px){
+  .mylogo{
+    width: 30vw;
+  }
+}
+@media only screen and (max-width: 384px){
+  .mylogo{
+    width: 33vw;
+  }
+}
+@media only screen and (max-width: 336px){
+  .mylogo{
+    width: 36vw;
+  }
+} */
 
