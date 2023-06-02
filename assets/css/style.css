@@ -1836,6 +1836,11 @@ section {
   width: 150px;
 }
 
+.inputform{
+  border-top: #47b2e4 3px solid;
+  border-bottom: #47b2e4 3px solid;
+}
+
 @media only screen and (max-width: 600px){
   .common_heading_responsive{
     font-size: 22px !important;
